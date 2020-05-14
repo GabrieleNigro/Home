@@ -1,0 +1,27 @@
+h1{
+	background-color: #0066CC;
+	color: white;
+	font-size: 120%;	
+}
+h2{
+	background-color: #0099CC;
+}
+table{
+	font-family: Verdana, Helvetica, sans-serif;
+	background-color: #F0F0F0;
+}
+tr.uno{
+	background-color: #0066CC;
+	text-align:center;
+	color: white;
+	font-size: 120%;
+}
+tr.due{
+	background-color: #0099CC;
+}
+tr{
+	background-color:Lightgrey;
+}
+p.uno{
+	text-align:right;
+}

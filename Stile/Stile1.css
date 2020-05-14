@@ -1,0 +1,19 @@
+h1{
+  	background-color:Orange;
+}
+table{
+	text-align:center;
+	font-family: Verdana, Helvetica, sans-serif;
+	background-color: #FFFF80;
+}
+tr.uno{
+	background-color:Orange;
+	font-size: 120%;
+}
+tr{
+	background-color: #FFC000;
+}
+p.uno{
+	text-align:right;
+}
+
