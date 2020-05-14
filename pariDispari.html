@@ -1,0 +1,22 @@
+<html>
+	<head>
+	<script>
+	function pariDispari()
+	{
+		num = document.getElementById("num").value;
+		resto = num%2;
+		if (resto ==0)
+			msg = "Numero PARI";
+		else
+			msg = "Numero DISPARI";
+		document.getElementById("risultato").innerHTML = msg;
+	}
+	</script>
+	</head>
+	<body>
+		Inserisci un numero intero: <input type="text" id="num">
+		<p>
+		<button type="button" onclick="pariDispari()">Controlla</BUTTON>
+		<div id="risultato"></div>	
+	</body>
+</html>
